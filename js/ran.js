@@ -6,10 +6,6 @@ function genRAN() {
   var team4 = document.getElementById('team4').value;
   var team5 = document.getElementById('team5').value;
   var team6 = document.getElementById('team6').value;
-  var team7 = document.getElementById('team7').value;
-  var team8 = document.getElementById('team8').value;
-  var team9 = document.getElementById('team9').value;
-  var team10 = document.getElementById('team10').value;
 
 
   ones = ['🤩', team1, '💥', team8, '💙',
